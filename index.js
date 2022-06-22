@@ -1,5 +1,5 @@
-var a =parseFloat(prompt('Enter first number'))
-var b =parseFloat(prompt('Enter secont number'))
+var a = parseFloat(prompt('Enter first number'))
+var b = parseFloat(prompt('Enter secont number'))
 var c = prompt('Choose operation: +, -, *, **, /, %')
 var result
 
